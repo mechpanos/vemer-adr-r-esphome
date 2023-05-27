@@ -4,7 +4,7 @@ ESPHome Yaml for getting readings from a Vemer ADR-R energy meter through RS485 
 What I wanted to do, is get my Vemer ADR-R readings, into Home Assistant, wirelessly without the use of ADRView software.
 Vemer was really helpful to give all the information needed concerning modbus communication, including all the necessarey addresses.
 So with a bit of try and error method, I finally got the readings to appear in Homeassistant and I thought to share the code.
-What ESPHome documentation doesn't state, or I didn't personally find it, is the fact that addresses have to be stated in a hexademical format.
+What ESPHome documentation doesn't state, or I didn't personally find it, is the fact that addresses have to be expressed in a hexademical format.
 So it was a big headache to figure why, even if I had all the addresses right, I only got communication errors.
 Luckily, I guessed what was going on and I figured it out.
 
