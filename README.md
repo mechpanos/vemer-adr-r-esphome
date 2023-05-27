@@ -8,7 +8,7 @@ What ESPHome documentation doesn't state, or I didn't personally find it, is the
 So it was a big headache to figure why, even if I had all the addresses right, I only got communication errors.
 Luckily, I guessed what was going on and I figured it out.
 
-So, to help me with my headache, if you found this stuff useful, feel free to buy me some beer or some DEPON pills, donating something in the link below :)
+So, to help me with my headache, if you found this stuff useful, feel free to buy me some beer or some headache pills, donating something in the link below :)
 
 [Make a donation through Paypal](https://www.paypal.com/donate/?hosted_button_id=TJHU3Q3FDJZAG)
 
