@@ -10,6 +10,6 @@ Luckily, I guessed what was going on and I figured it out.
 
 So, to help me with my headache, if you found this stuff useful, feel free to buy me some beer or some DEPON pills, donating something in the link below :)
 
-[Make a donation throug Paypal](https://www.paypal.com/donate/?hosted_button_id=TJHU3Q3FDJZAG)
+[Make a donation through Paypal](https://www.paypal.com/donate/?hosted_button_id=TJHU3Q3FDJZAG)
 
 If anyone, ever, donates more than 5 EUR which is the value of a good glass of beer, the money will be given to charity to help children.
